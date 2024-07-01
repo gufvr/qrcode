@@ -1,2 +1,4 @@
 import-prompt.md
 node_modules/
+notes/
+.gitignore
