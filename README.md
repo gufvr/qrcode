@@ -1,4 +1,4 @@
-<h1 align="center">QRCode</h1>
+<h1 align="center">QR Code & Password Generator</h1>
 
 <p align="center">
   Este repositório contém uma implementação de geração de QR Codes e senha aleatórias usando Node.js
