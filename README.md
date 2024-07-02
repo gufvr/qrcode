@@ -1,7 +1,7 @@
 <h1 align="center">QRCode</h1>
 
 <p align="center">
-  Este repositório contém uma implementação de geração de QR Codes e senha aleatórias usando JavaScript.
+  Este repositório contém uma implementação de geração de QR Codes e senha aleatórias usando Node.js
 </p>
 
 ## Objetivo
